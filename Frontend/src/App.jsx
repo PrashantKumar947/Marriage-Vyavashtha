@@ -6,6 +6,7 @@ import Home from "./components/Home"
 
 
 const App = () =>{
+  console.log("hey")
   return <>
   <Navbar></Navbar>
   <div className="home">
